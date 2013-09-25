@@ -1,7 +1,6 @@
 body {
 	background: #ffefd5;
-	font-family: "BaskervilleCyrlTStd", Helvetica, Lucida 
-	  
+	font-family: "BaskervilleCyrlTStd", Helvetica, Lucida;
 }
 .myessay{
 	margin: 2em 12em;
@@ -10,10 +9,18 @@ body {
 }
 
 h1{
-	font-size: 200%;
-	text-transform: uppercase;
+	font-size: 150%;
 	font-weight: bold;
 	letter-spacing: 3px;
 	text-align: center;
 	margin: 3em 0 1.5em 0; 
 }
+.name {
+	font-family: Lucida;
+	font-size: 40pt;
+	text-align: center;
+}
+.course{
+	font-family: Lucida;
+	font-size: 20pt;
+	text-align: center;
