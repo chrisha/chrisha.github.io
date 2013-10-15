@@ -1,0 +1,21 @@
+body{
+	margin: 0pt; padding: 0pt; text-align: center; 
+	background: #ffefd5;
+	font-family: Helvetica;
+}
+.name {
+	font-family: Lucida;
+	font-size: 40pt;
+	text-align: center;
+}
+.course{
+	font-family: Lucida;
+	font-size: 20pt;
+	text-align: center;
+}
+.h1{
+	text-align: center; 
+}
+.a {
+	font-size: 25pt;
+}
