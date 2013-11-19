@@ -21,6 +21,7 @@ body{
 	font-size: 20pt;
 }
 	
-.link {
+.a:visited {
 	color: black;
+	text-decoration: none;
 }
