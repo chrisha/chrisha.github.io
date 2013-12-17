@@ -1,21 +1,32 @@
 body{
 	margin: 0pt; padding: 0pt; text-align: center; 
-	background: #ffefd5;
-	font-family: Helvetica;
+	background: #f8f8e2;
+	font-family: "BaskervilleCyrlTStd", Helvetica, Lucida ;
+	color: #d99392;
+	font-size: 15pt;
 }
 .name {
 	font-family: Lucida;
 	font-size: 40pt;
 	text-align: center;
+	color: #d99392;
 }
 .course{
 	font-family: Lucida;
 	font-size: 20pt;
 	text-align: center;
+	color: #d99392;
 }
-.h1{
+.p{
 	text-align: center; 
-}
+	color: #d99392;
+	font-size: 20pt;
+	}
 .a {
 	font-size: 25pt;
+
+}
+.img {
+	width: 75%;
+	height: 75%;
 }

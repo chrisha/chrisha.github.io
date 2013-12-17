@@ -1,24 +1,31 @@
 body{
 	margin: 0pt; padding: 0pt; text-align: center; 
-	background: #ffefd5;
-	font-family: Helvetica;
+	background: #cfe9d0;
+	font-family: "BaskervilleCyrlTStd",Helvetica, Lucida;
+	font-size: 15pt;
+	color: #806262;
 }
 .name {
 	font-family: Lucida;
-	font-size: 40pt;
+	font-size: 30pt;
 	text-align: center;
+	color: #806262;
 }
 .course{
 	font-family: Lucida;
 	font-size: 20pt;
 	text-align: center;
+	color: #806262;
 }
-.h1{
+.p{
 	text-align: center; 
+	color: #d99392;
+	font-size: 20pt;
 }
 .a {
-	font-size: 25pt;
+	font-size: 20pt;
+	color: #d99392;
 }
-.h2 {
-	font-size: 30pt;
+.img {
+	text-align: center;
 }

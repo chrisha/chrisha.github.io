@@ -1,6 +1,9 @@
-body {
-	background: #ffefd5;
-	font-family: "BaskervilleCyrlTStd", Helvetica, Lucida;
+body{
+	margin: 0pt; padding: 0pt; text-align: center; 
+	background: #cfe9d0;
+	font-family: "BaskervilleCyrlTStd",Helvetica, Lucida;
+	font-size: 15pt;
+	color: #806262;
 }
 .myessay{
 	margin: 2em 12em;
